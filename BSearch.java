@@ -1,3 +1,5 @@
+//This is a program to check binary
+
 import java.util.Scanner;
 class BSearch 
 {
